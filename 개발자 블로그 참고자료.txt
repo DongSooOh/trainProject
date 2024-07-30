@@ -7,5 +7,8 @@ https://velog.io/@suhyun_zip/%EC%84%9C%EB%B2%84-%EA%B5%AC%ED%98%84-%EA%B2%8C%EC%
 3. melonPeach
 https://melonpeach.tistory.com/36
 
-4. 더블에스 devlog
+4. 더블에스 devlog(ajax 댓글 수정, 삭제 등)
 https://doublesprogramming.tistory.com/102
+
+5. ajax 게시글 상세보기 등
+https://twoline.tistory.com/107
